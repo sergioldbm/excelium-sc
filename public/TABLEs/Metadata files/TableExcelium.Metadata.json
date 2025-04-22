@@ -1,0 +1,31 @@
+{
+  "Column": [
+    {
+      "attcacheoff": -1,
+      "attcollation": "default",
+      "attdefault": null,
+      "attfdwoptions": null,
+      "attidentity": "\u0000",
+      "attislocal": true,
+      "attlen": -1,
+      "attmissingval": null,
+      "attname": "col1",
+      "attndims": 0,
+      "attnotnull": false,
+      "attnum": 1,
+      "attoptions": null,
+      "attstorage": "x",
+      "atttypid": "character",
+      "atttypmod": 5,
+      "kind": "r",
+      "name": "TableExcelium",
+      "schema": "public"
+    }
+  ],
+  "Comments": [],
+  "Constraints": [],
+  "Indexes": [],
+  "Inherites": [],
+  "Rewrite": [],
+  "Triggers": []
+}
